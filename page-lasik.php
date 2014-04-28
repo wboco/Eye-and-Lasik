@@ -1,9 +1,9 @@
 <?php
 /*
-Template Name: General Page
+Template Name: LASIK Page
 */
 
-get_header('interior'); ?>
+get_header('lasik'); ?>
 	<div id="content_area" class="row">
 	
 		<?php require_once("inc/sidebar_accordian.inc.php"); ?>
